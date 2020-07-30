@@ -48,5 +48,7 @@ I am a final year undergraduate student from IIT Kharagpur, passionate about dat
 <img style="padding: 10px; vertical-align: top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssreeramj" />
 
 ### - Connect with me here
-
-
+<p align="center">
+<a href="mailto:ssreeramj@gmail.com"> 
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:4px">
+</p>
