@@ -29,6 +29,7 @@ I am a final year undergraduate student from IIT Kharagpur, passionate about dat
 
 
 ### - Languages, Frameworks and Tools
+<br>
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/jupyter-icon.svg" alt="jupyter-icon" style="vertical-align:top; margin:4px">
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/pytorch-icon.svg" alt="pytorch" style="vertical-align:top; margin:4px">
@@ -38,10 +39,11 @@ I am a final year undergraduate student from IIT Kharagpur, passionate about dat
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/dartlang-icon.svg" alt="dartlang" style="vertical-align:top; margin:4px">
 <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/firebase-icon.svg" alt="firebase" style="vertical-align:top; margin:4px">
+<br>
 
 ### - My Github Stats
 
-<img align="center" style="padding: 10px; vertical-align: top" src="https://github-readme-stats.vercel.app/api?username=ssreeramj&show_icons=true&hide=prs&count_private=true" />
+<img align="left" style="padding: 10px; vertical-align: top" src="https://github-readme-stats.vercel.app/api?username=ssreeramj&show_icons=true&hide=prs&count_private=true" />
 <img align="center" style="padding: 10px; vertical-align: top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssreeramj" />
 
 <!-- 
