@@ -31,8 +31,13 @@ I am a final year undergraduate student from IIT Kharagpur, passionate about dat
 ### - Languages, Frameworks and Tools
 
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
-<img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
 <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+<img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/pandas.svg" alt="pandas" style="vertical-align:top; margin:4px">
+<img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+<img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+<img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
+<img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/dartlang-icon.svg" alt="dartlang" style="vertical-align:top; margin:4px">
+<img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/firebase-ar21.svg" alt="firebase" style="vertical-align:top; margin:4px">
 
 ### - My Github Stats
 
