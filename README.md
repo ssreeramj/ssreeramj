@@ -30,7 +30,7 @@ I am a final year undergraduate student from IIT Kharagpur, passionate about dat
 
 ### - Languages, Frameworks and Tools
 
-<img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/python.jpeg" alt="python" style="vertical-align:top; margin:4px">
+<img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
 <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 
