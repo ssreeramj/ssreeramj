@@ -30,7 +30,7 @@ I am a final year undergraduate student from IIT Kharagpur, passionate about dat
 
 ### - Languages, Frameworks and Tools
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
+<img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
 
 
 ### - My Github Stats
