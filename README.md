@@ -1,4 +1,5 @@
 <h1 align="center"> Hi There 👋 </h1>
+<h2 align="center"> I am Sreeram Jagannath S </h2>
 
 <!--
 **ssreeramj/ssreeramj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### I am Sreeram Jagannath S
+<!-- ### I am Sreeram Jagannath S -->
 
 I am a final year undergraduate student from IIT Kharagpur, passionate about data science :bar_chart:, machine learning and deep learning :computer:. I like automating things and building mobile apps.
 
