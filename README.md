@@ -50,5 +50,5 @@ I am a final year undergraduate student from IIT Kharagpur, passionate about dat
 ### - Connect with me here
 <p align="center">
 <a href="mailto:ssreeramj@gmail.com"> <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/gmail-icon.svg" alt="gmail" style="vertical-align:top; margin:4px">
-<a href="https://www.facebook.com/sreeramjagannath.chettiar"> <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/facebook-official.svg" alt="facebook" style="vertical-align:top; margin:4px">
+<a href="https://www.facebook.com/sreeramjagannath.chettiar"> <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/facebook-icon.svg" alt="facebook" style="vertical-align:top; margin:4px">
 </p>
