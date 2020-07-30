@@ -32,13 +32,13 @@ I am a final year undergraduate student from IIT Kharagpur, passionate about dat
 
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/jupyter-icon.svg" alt="jupyter-icon" style="vertical-align:top; margin:4px">
-<img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/pytorch-ar21.svg" alt="pytorch" style="vertical-align:top; margin:4px">
+<img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/pytorch-icon.svg" alt="pytorch" style="vertical-align:top; margin:4px">
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/tensorflow-icon.svg" alt="tensorflow" style="vertical-align:top; margin:4px">
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/git-scm-icon.svg" alt="git" style="vertical-align:top; margin:4px">
 <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
 <img align="left" src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/dartlang-icon.svg" alt="dartlang" style="vertical-align:top; margin:4px">
-<img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/firebase-ar21.svg" alt="firebase" style="vertical-align:top; margin:4px">
+<img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/firebase-icon.svg" alt="firebase" style="vertical-align:top; margin:4px">
 
 ### - My Github Stats
 
