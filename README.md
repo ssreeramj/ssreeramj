@@ -49,9 +49,9 @@ I am a final year undergraduate student from IIT Kharagpur, passionate about dat
 
 ### - Connect with me here
 <p align="center">
-<a href="mailto:ssreeramj@gmail.com"> <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/gmail.svg" alt="gmail" height="64" width="64" style="vertical-align:top; margin-right:10px">
-<a href="https://www.facebook.com/sreeramjagannath.chettiar"> <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/facebook.svg" alt="facebook" height="64" width="64" style="vertical-align:top; margin-right:10px">
-<a href="https://www.linkedin.com/in/sreeram-jagannath-0b5aa5159/"> <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/linkedin.svg" alt="linkedin" height="64" width="64" style="vertical-align:top; margin-right:10px">
+<a href="mailto:ssreeramj@gmail.com"> <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/gmail.svg" alt="gmail" height="64" width="64" style="vertical-align:top; margin-right:15px">
+<a href="https://www.facebook.com/sreeramjagannath.chettiar"> <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/facebook.svg" alt="facebook" height="64" width="64" style="vertical-align:top; margin-right:15px">
+<a href="https://www.linkedin.com/in/sreeram-jagannath-0b5aa5159/"> <img src="https://github.com/ssreeramj/ssreeramj/blob/master/assets/linkedin.svg" alt="linkedin" height="64" width="64" style="vertical-align:top; margin-right:15px">
 </p>
 
 
