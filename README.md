@@ -24,8 +24,7 @@ I am a final year undergraduate student from IIT Kharagpur, passionate about dat
 
 - Improving my data analytics skills.
 - Improving my DS and Algorithms for competitive programming
-- Learning to build apps with  using flutter
-- Working on a simple online multiplayer game using PyGame
+- Learning to build apps with using flutter
 
 
 ### - Languages, Frameworks and Tools
