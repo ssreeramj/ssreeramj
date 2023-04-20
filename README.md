@@ -1,31 +1,7 @@
-<h1 align="center"> Hi There 👋 </h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hubot+Sans&duration=3000&pause=500&center=true&multiline=true&width=500&height=75&lines=Sreeram+Jagannath+S;Data+Analyst+%7C+Problem+Solver" alt="Typing SVG" /></a>
 
-<!--
-**ssreeramj/ssreeramj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-### I am Sreeram Jagannath S
-
-- 🔭 I’m currently working on an online multiplayer game using PyGame
-- 🌱 I’m currently learning data structures and algorithms, flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### I am Sreeram Jagannath S
-
-I am a final year undergraduate student from IIT Kharagpur, passionate about data science :bar_chart:, machine learning and deep learning :computer:. I like automating things and building mobile apps.
-
-### - I am currently...
-
-- Improving my data analytics skills.
-- Improving my DS and Algorithms for competitive programming
-- Learning to build apps with using flutter
-
+I currently work as a Senior Data Analyst at Tiger Analytics. I have close to two years of experience in the field of data science, and I have a Bachelors degree from IIT Kharagpur. I love to play around with new tools in the field of AI. Currently exploring the practicality of Large Language Models.
 
 ### - Languages, Frameworks and Tools
 <p align="center">
