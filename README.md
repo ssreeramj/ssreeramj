@@ -26,7 +26,6 @@ I currently work as a Senior Data Analyst at Tiger Analytics. I have close to tw
 <p align="center">
 <a href="https://www.linkedin.com/in/sreeram-jagannath-0b5aa5159/"> <img src="https://img.shields.io/static/v1?color=grey&logo=Linkedin&message=Linkedin&label=&style=for-the-badge&logoColor=blue" alt="linkedin" style="vertical-align:top; margin-right:15px">
 <a href="mailto:ssreeramj@gmail.com"> <img src="https://img.shields.io/static/v1?color=grey&logo=Gmail&message=Gmail&label=&style=for-the-badge" alt="gmail" style="vertical-align:top; margin-right:15px">
-<a href="https://www.facebook.com/sreeramjagannath.chettiar"> <img src="https://img.shields.io/static/v1?color=grey&logo=Facebook&message=Facebook&label=&style=for-the-badge" alt="facebook"  style="vertical-align:top; margin-right:15px">
 </p>
 
 
