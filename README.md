@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hubot+Sans&duration=3000&pause=500&center=true&multiline=true&width=500&height=75&lines=Sreeram+Jagannath+S;Data+Analyst+%7C+Problem+Solver" alt="Typing SVG" /></a>
 
-I currently work as a Senior Data Analyst at Tiger Analytics. I have close to three years of experience in the field of data science, and I have a Bachelors degree from IIT Kharagpur. I love to play around with new tools in the field of AI. Currently exploring the practicality of Large Language Models.
+I currently work as a Senior Data Scientist at V4C.ai. I have close to four years of experience in the field of data science, and I have a Bachelors degree from IIT Kharagpur. I love to play around with new tools in the field of AI. Currently exploring the practicality of Large Language Models.
 
 ### - Languages, Frameworks and Tools
 <p align="center">
