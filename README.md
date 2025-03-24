@@ -18,8 +18,6 @@ I currently work as a Senior Data Scientist at V4C.ai. I have close to four year
 </p>
 
 ### - My Github Stats
-
-<img align="left" style="padding: 10px; vertical-align: top" src="https://github-readme-stats.vercel.app/api?username=ssreeramj&show_icons=true&hide=prs&count_private=true" />
 <img style="padding: 10px; vertical-align: top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssreeramj" />
 
 ### - Connect with me here
